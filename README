@@ -1,0 +1,11 @@
+fcitx-table-dayi
+
+Description
+==============
+Dayi (http://www.dayi.com) table for fcitx
+
+How to install
+==============
+mkdir build
+cmake .. -DCMAKE_INSTALL_PREFIX=/usr
+make install
