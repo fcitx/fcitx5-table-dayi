@@ -4,7 +4,7 @@
 # 的格式以適合其他平台或輸入法軟體使用。
 #
 Length=4
-KeyCode=,./0123456789;abcdefghijklmnopqrstuvwxyz
+KeyCode=,./0123456789;abcdefghijklmnopqrstuvwxyz=
 [Data]
 &,   力
 &.   點
@@ -18684,3 +18684,25 @@ wfu  豔
 uu0  鑿
 38h  鸚
 mee  冢
+= 。
+= ，
+= ？
+= ：
+= ；
+= 《
+= 》
+= 〈
+= 〉
+= 、
+= ！
+= ＄
+= ……
+= ×
+= ——
+= （
+= ）
+= 「
+= 」
+= 『
+= 』
+= ～

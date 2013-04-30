@@ -14,5 +14,6 @@ AutoPhrase=False
 ExactMatch=False
 PromptTableCode=False
 UseCustomPrompt=True
+IgnorePunc=True
 LangCode=zh_TW
 Priority=30
