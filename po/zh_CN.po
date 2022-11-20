@@ -4,9 +4,8 @@
 # Weng Xuetian <wengxt@gmail.com>, 2013.
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2013-04-29 22:48-0400\n"
+"POT-Creation-Date: 2022-11-20 09:10-0800\n"
 "PO-Revision-Date: 2013-04-29 22:49-0400\n"
 "Last-Translator: Weng Xuetian <wengxt@gmail.com>\n"
 "Language-Team: Fcitx Dev <fcitx-dev@googlegroups.com>\n"
@@ -20,4 +19,3 @@ msgstr ""
 #: tables/dayi3.conf.in:3
 msgid "Dayi"
 msgstr "大易"
-

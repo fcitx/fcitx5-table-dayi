@@ -3,6 +3,7 @@
 # 使用者不得任意更改此表格中每個字的編碼規則並重新散佈，但允許改變此表格
 # 的格式以適合其他平台或輸入法軟體使用。
 #
+Prompt=&
 Length=4
 KeyCode=,./0123456789;abcdefghijklmnopqrstuvwxyz=
 [Data]
